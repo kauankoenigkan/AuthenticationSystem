@@ -3,7 +3,7 @@
 <p align="left">
   <img src="https://img.shields.io/badge/Language-Java-orange?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java">
   <img src="https://img.shields.io/badge/Database-MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL">
-  <img src="https://img.shields.io/badge/Persistência-JDBC-007396?style=for-the-badge&logo=java&logoColor=white" alt="JDBC">
+  <img src="https://img.shields.io/badge/API/Driver-JDBC-007396?style=for-the-badge&logo=java&logoColor=white" alt="JDBC">
   <img src="https://img.shields.io/badge/Servidor-XAMPP-FB7A24?style=for-the-badge&logo=xampp&logoColor=white" alt="XAMPP">
 </p>
 
@@ -12,7 +12,7 @@
 * **Linguagem Principal:** `Java`
 * **Banco de Dados:** `MySQL`
 * **Servidor Local:** `XAMPP`
-* **Persistência/Drivers:** `JDBC (MySQL Connector/J)`
+* **Drivers:** `JDBC (MySQL Connector/J)`
 * **IDE Recomendada:** `IntelliJ IDEA (Utilizado por mim)`, `Eclipse` ou `VS Code`
 
 ## 📌 Funcionalidades
